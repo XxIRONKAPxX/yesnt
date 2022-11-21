@@ -1,0 +1,5 @@
+dim i as integer 
+
+for i = 1 to 1000
+console.writeline(i)
+next
